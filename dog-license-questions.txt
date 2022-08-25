@@ -1,0 +1,26 @@
+I would ask following questions to the client to digitize their "Application for a Dog License" form.
+1.	To estimate and record the project delivery details I will prepare a project charter. The project will have answer of the following questions: - 
+	a.What is the project timeline?
+	b.Who is the point of contact?
+	c.What will be the medium of communication? Skype? Zoom? Teams? Emails or direct calls?
+	d.What is the scope of the project?
+	e.What are the deliverables? System Documentation? User Manual?
+	f.What will be size and budget of the requirements?
+2.	Understanding Technical aspects
+	a.Is website already built? If so, what is the current technology being used on the website?
+	b.Should the new feature of “Application for a Dog License” be done with the same technology as website or there is flexibility to recommend and use alternative technologies?
+	c.What are the data that needs to be captured before a dog owner can submit their dog license form?
+	d.What are the notification mediums that could be used to notify applicants when they have successfully completed their form? Email? SMS? Or both?
+	e.Do they need a feature of generating tracking number so that applicant can see the status of their application?
+	f.Do they need analytical reports such as number of applications per month, license form approved per month etc.?
+	g.What database do they prefer to use? SQL or NoSQL? Any preferred database or any open-source database can be used?
+	h.Do they need database backup? 
+	i.What are the deployment servers that could be provided? Any specific choices of operating system such as Linux (Ubuntu,CentOs,Redhat) or windows?
+3.	Execution
+	a.What will be the software development lifecycle used? Will it be agile?
+	b.How do we handle change request? Will it be communicated via phone calls or official mails?
+	c.Do they need testing reports such as stress testing and security testing?
+4.	Final Delivery
+	a.What are the final deliverables? What are the documents to be delivered along with the source code?
+	b.Do we need to provide training to the end users? If so, how many hours of training?
+	c.Who will sign the sign off document between client and vendor?
